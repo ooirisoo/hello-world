@@ -34,3 +34,9 @@ but I failed...
   n++;
   
 }
+
+function mousePressed(){
+    if (n = 0, n < width, n++){
+       n = 0;
+    }
+  }
